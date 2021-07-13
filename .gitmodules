@@ -1,0 +1,9 @@
+[submodule "elevator_mod"]
+	path = elevator_mod
+	url = https://github.com/RainBowAurora/elevator_mod.git
+[submodule "common"]
+	path = common
+	url = https://github.com/RainBowAurora/common.git
+[submodule "base_driver_new"]
+	path = base_driver_new
+	url = https://github.com/RainBowAurora/base_driver_new.git
