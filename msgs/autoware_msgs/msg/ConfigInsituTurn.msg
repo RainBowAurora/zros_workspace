@@ -1,0 +1,9 @@
+Header header
+float32 degree_threshold
+float32 dist_threshold
+float32 linear_velocity_ratio
+float32 angular_velocity_ratio
+float32 max_linear_twist
+float32 min_linear_twist
+float32 max_angular_twist
+float32 min_angular_twist
